@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @junewith2ns
+/src/backend/database.py      @junewith2ns
+/src/backend/routers/auth.py  @junewith2ns
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @junewith2ns
